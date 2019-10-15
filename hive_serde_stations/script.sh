@@ -1,0 +1,1 @@
+hadoop fs -put stations-fixed-width.txt /user/cloudera/
